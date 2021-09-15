@@ -1,7 +1,8 @@
 A motoko canister that does HTTP asset certification
 ====================================================
 
-This little project … TODO
+This little project demonstrated HTTP asset certification. See
+[./main.mo](./main.mo) for more details.
 
 
 More questions or comments?
