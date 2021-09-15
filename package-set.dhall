@@ -4,14 +4,7 @@ let Package =
 
 let
   -- This is where you can add your own packages to the package-set
-  additions =
-    [
-         { name = "merkle-tree"
-         , version = "f50c83a"
-         , repo = "https://github.com/nomeata/motoko-merkle-tree"
-         , dependencies = [] : List Text
-         }
-    ] : List Package
+  additions = [] : List Package
 
 let
   {- This is where you can override existing packages in the package-set
